@@ -1,2 +1,3 @@
-# pyhton-cassingment-2
-python based inventory
+PYTHON ASSIGNMENTS
+1.simple inventory
+2.library
