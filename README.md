@@ -3,4 +3,4 @@
 2. library
 3. Bank Account
 4. Temperature conversion
-5. Python 
+5. Names sorting and removing duplicates
